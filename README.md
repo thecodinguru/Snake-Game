@@ -19,7 +19,7 @@ Is Snake's body on left?
 Is Snake's body on right?
 Is Snake's body in forward direction?
 
-There are many ways to solve this problem but I tried to solve it with simple neural network.
+There are many ways to solve this problem but I tried to solve it with a simple neural network.
 
 The answers to these problems can also be solved with the help of reinforcement learning as well.
 
