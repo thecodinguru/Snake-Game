@@ -1,10 +1,10 @@
-# Snake-Game
+# Snake-Brain
 
 <B> Hello there! </B>
 
-I have created a snake game using PyGame.
+I have created a snake game using PyGame and a nerual network.
 
-In this gameof Snake, you can move in three directions: left, right or forward. This will be predicted by our neural network.
+In this game of Snake Brain, you can move in three directions: left, right or forward. This will be predicted by our neural network.
 The neural network contains 9 input layers with two hidden layers, each with 24 nodes and a single output layer.
 A Tanh function will used in this game as an activation function producing the prediction of: -1,0,1 [left,forward,right]
 
@@ -23,7 +23,7 @@ There are many ways to solve this problem but I tried to solve it with simple ne
 
 The answers to these problems can also be solved with the help of reinforcement learning as well.
 
-Snake Game Programming Method/Workflow:
+## Snake Game Programming Method/Workflow:
 1. Randomly assign neural network weights and pass the input layer values
 2. The neural network will predict a value and move in that direction 
 3. Repeat steps 1 and 2 until snake gets a food or ignore (dies or in a loop)
@@ -33,7 +33,8 @@ Snake Game Programming Method/Workflow:
 7. Using the highest performer, it will create a threshold score which will help us to select more smart snakes 
 8. Use the concept of Genetic Algorithm and mutate each snakes with self/each other and create more child snakes
 
-            NOTE: I randomly mutated parent snake weights with 1%,2%,3%,4%,5%,7% deviation (random selection) and created 15 child snakes.
+            NOTE: I randomly mutated parent snake weights with 1%,2%,3%,4%,5%,7% deviation (random selection) 
+                  and created 15 child snakes.
                   
                   JUST PLAY WITH THE MUTATIONS AS MUCH AS YOU WANT! HAVE FUN! MAKE AS MANY OF YOUR COMBINATIONS AS POSSIBLE!
 
