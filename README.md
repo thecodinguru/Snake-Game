@@ -36,6 +36,6 @@ The answers to these problems can also be solved with the help of reinforcement 
             NOTE: I randomly mutated parent snake weights with 1%,2%,3%,4%,5%,7% deviation (random selection) 
                   and created 15 child snakes.
                   
-                  JUST PLAY WITH THE MUTATIONS AS MUCH AS YOU WANT! HAVE FUN! MAKE AS MANY OF YOUR COMBINATIONS AS POSSIBLE!
+                  JUST PLAY WITH THE MUTATIONS AS MUCH AS YOU WANT! HAVE FUN! MAKE AS MANY OF YOUR OWN COMBINATIONS AS POSSIBLE!
 
 9. Test the child snakes performance and again select the top performers and repeat from step 7
