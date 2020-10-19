@@ -23,7 +23,7 @@ There are many ways to solve this problem but I tried to solve it with simple ne
 
 The answers to these problems can also be solved with the help of reinforcement learning as well.
 
-## Snake Game Programming Method/Workflow:
+### Snake Game Programming Method/Workflow:
 1. Randomly assign neural network weights and pass the input layer values
 2. The neural network will predict a value and move in that direction 
 3. Repeat steps 1 and 2 until snake gets a food or ignore (dies or in a loop)
