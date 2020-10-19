@@ -31,6 +31,8 @@ Snake Game Programming Method:
 6. Now take those n smart snakes and test there performance
 7. Using the highest performer, it will create a threshold score which will help us to select more smart snakes 
 8. Use the concept of Genetic Algorithm and mutate each snakes with self/each other and create more child snakes
+
 NOTE: I randomly mutated parent snake weights with 1%,2%,3%,4%,5%,7% deviation and created 15 child snakes and also a child snake who is average of all parent snakes. 
-NOTE: JUST PLAY WITH THE MUTATIONS AS MUCH AS YOU WANT! HAVE FUN! MAKE AS MANY OF YOUR COMBINATIONS AS POSSIBLE!
+SECOND NOTE: JUST PLAY WITH THE MUTATIONS AS MUCH AS YOU WANT! HAVE FUN! MAKE AS MANY OF YOUR COMBINATIONS AS POSSIBLE!
+
 9. Test the child snakes performance and again select the top performers and repeat from step 7
