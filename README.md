@@ -5,7 +5,9 @@
 I have created a snake game using PyGame and a nerual network.
 
 In this game of Snake Brain, you can move in three directions: left, right or forward. This will be predicted by our neural network.
+
 The neural network contains 9 input layers with two hidden layers, each with 24 nodes and a single output layer.
+
 A Tanh function will used in this game as an activation function producing the prediction of: -1,0,1 [left,forward,right]
 
 The 9 input layer will have values from these 9 questions:
@@ -36,6 +38,11 @@ The answers to these problems can also be solved with the help of reinforcement 
             NOTE: I randomly mutated parent snake weights with 1%,2%,3%,4%,5%,7% deviation (random selection) 
                   and created 15 child snakes.
                   
-                  JUST PLAY WITH THE MUTATIONS AS MUCH AS YOU WANT! HAVE FUN! MAKE AS MANY OF YOUR OWN COMBINATIONS AS POSSIBLE!
+                  JUST PLAY WITH THE MUTATIONS AS MUCH AS YOU WANT!
+                  
+                  MAKE AS MANY OF YOUR OWN COMBINATIONS AS POSSIBLE!
+                  
+                  HAVE FUN! 
+                  
 
 9. Test the child snakes performance and again select the top performers and repeat from step 7
